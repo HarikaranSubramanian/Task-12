@@ -26,4 +26,6 @@ This is a simple web application that allows users to get the meaning of a word 
 - Bootstrap 5: Used for styling and responsiveness.
 
 
+## Demo
 
+Check out the hosted version of the app on Netlify: [Dictionary Web App](https://netlify-dictionary.netlify.app)
